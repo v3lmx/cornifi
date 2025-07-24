@@ -31,7 +31,15 @@ I am not currently selling them myself, but if you would be interested, you can 
 Only [qmk](https://github.com/qmk/qmk_firmware) is supported.
 
 For now please use my fork, which has the cornifi keyboard support: [v3lmx/qmk_firmware](https://github.com/v3lmx/qmk_firmware).
-You can build the firmware with the following command:
+
+**Setup:**
+
+```bash
+git clone https://github.com/v3lmx/qmk_firmware
+git checkout cornifi
+make git-submodules
+```
+**Then compile with:**
 
 ```bash
 qmk compile -kb cornifi -km default
