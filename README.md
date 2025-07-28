@@ -2,7 +2,7 @@
 
 The cornifi keyboard is a split keyboard based on the [corne](https://github.com/foostan/crkbd) with the physical layout of the [fifi](https://github.com/raychengy/fifi_split_keeb).
 
-*there will be a nice picture here*
+![cornifi keybord photo](photos/blanco1.jpg)
 
 > This repository is a work in progress, I am working on adding the keyboard pcb and cases files.
 
