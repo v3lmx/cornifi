@@ -30,22 +30,11 @@ I am not currently selling them myself, but if you would be interested, you can 
 
 Only [qmk](https://github.com/qmk/qmk_firmware) is supported.
 
-For now please use my fork, which has the cornifi keyboard support: [v3lmx/qmk_firmware](https://github.com/v3lmx/qmk_firmware).
+The keyboard is available in the QKM master branch with documentation on installation [here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/cornifi)
 
-**Setup:**
+### Keymap
 
-```bash
-git clone https://github.com/v3lmx/qmk_firmware
-git checkout cornifi
-make git-submodules
-```
-**Then compile with:**
-
-```bash
-qmk compile -kb cornifi -km default
-```
-
-If you want to make your own keymap, I recommend using the [userspace](https://docs.qmk.fm/newbs_external_userspace) feature. You can see an example with my keymap at [v3lmx/qmk_userspace](https://github.com/v3lmx/qmk_userspace).
+There is a default keymap available, but to make your own, I recommend using the [userspace](https://docs.qmk.fm/newbs_external_userspace) feature. You can see an example with my keymap at [v3lmx/qmk_userspace](https://github.com/v3lmx/qmk_userspace).
 
 ## Contributing
 
