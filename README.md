@@ -11,7 +11,7 @@ The cornifi keyboard is a split keyboard based on the [corne](https://github.com
 - 36/40 keys 
 - Encoder support 
 - Embedded RP2040 controller
-- USB-C or TRRS to connect the halves
+- USB-C to connect the halves
 - PCB assembly: no soldering required (unless you use encoders)
 
 **Does not have:**
