@@ -21,8 +21,9 @@ The cornifi keyboard is a split keyboard based on the [corne](https://github.com
 
 ## How to get one 
 
-You can order a cornifi keyboard PCB from a PCB manufacturer. See the [ordering guide](docs/ordering.md).
+You can order a cornifi keyboard PCB from a PCB manufacturer. See the [pcb ordering guide](docs/pcb_ordering_guide.md).
 Cases can be 3d printed, see the [cases](cases/) directory.
+You will also need a usb-c cable, cherry MX switches, and keycaps.
 
 I am not currently selling them myself, but if you would be interested, you can vote on [this issue](https://github.com/v3lmx/cornifi/issues/1).
 

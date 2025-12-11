@@ -1,6 +1,8 @@
-# Ordering Guide
+# PCB Ordering Guide
 
-This guide will show an example of how to order this keyboard on [JLPCB](https://jlcpcb.com/).
+This guide will show an example of how to order the cornifi PCB on [JLPCB](https://jlcpcb.com/).
+
+> This does not include other components needed for the keyboard: a case, switches, keycaps, and a usb-c cable.
 
 ---
 
