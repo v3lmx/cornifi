@@ -4,8 +4,6 @@ The cornifi keyboard is a split keyboard based on the [corne](https://github.com
 
 ![cornifi keybord photo](photos/blanco1.jpg)
 
-> This repository is a work in progress, I am working on adding the keyboard pcb and cases files.
-
 ## Features 
 
 - 36/40 keys 
