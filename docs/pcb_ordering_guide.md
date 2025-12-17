@@ -12,24 +12,29 @@ This guide will show an example of how to order the cornifi PCB on [JLPCB](https
 
 2. Click on "Add gerber file" and upload the gerber file: `pcb/gerber_cornifi_usb-c.zip` (this may take a while).
 
-3. Most settings default values are good, here are the ones you may want to change:
-    1. PCB color: whatever you like
-    1. Surface Finish: LeadFree HASL
+3. Most settings default values are good, you need to change this one :
+- Different design: 2
 
-![pcb settings](img/pcb.png)
+And optionnally you can change these as well:
+- PCB color: whatever you like
+- Surface Finish: LeadFree HASL
+
+> The Dimensions may change when adding PCB assembly, don't worry about it
+
+![pcb settings](img/params.png)
 
 4. At the bottom, enable "PCB Assembly"
-    1. PCBA Type: Standard
-    1. Assembly Side: Bottom Side
-    1. Confirm Parts Placement: **Yes** (this is important)
+- PCBA Type: Standard
+- Assembly Side: Bottom Side
+- Confirm Parts Placement: **Yes** (this is important)
 
 ![pcba settings](img/pcba.png)
 
 5. Click "Next", you will see you PCB, click "Next" again.
 
 6. You should see two upload boxes, for the CPL and BOM files, and click "Next".
-    1. BOM: `pcb/bom_cornifi_usb-c.xslx`
-    1. CPL: `pcb/cpl_cornifi_usb-c.xslx`
+- BOM: `pcb/bom_cornifi_usb-c.xslx`
+- CPL: `pcb/cpl_cornifi_usb-c.xslx`
 
 7. You will see a list of components to be assembled. Some manual adjustments may be needed, check if there are any warnings or unselected components:
 
